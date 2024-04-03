@@ -41,45 +41,48 @@
 <hr>
 
 <h3 align="center">🔧 Technologies & Tools</h3>
-<p><strong>Programming Languages:</strong></p>
-<ul>
-  <li>🧩 C/C++</li>
-  <li>🐍 Python</li>
-  <li>☕ Java</li>
-  <li>⚡ PowerShell</li>
-  <li>🛢 SQL</li>
-  <li>🔢 MATLAB</li>
-  <li>🌐 HTML</li>
-  <li>📄 LaTeX</li>
-</ul>
-
-<p><strong>Software & Tools:</strong></p>
-<ul>
-  <li>📊 Microsoft Office 365</li>
-  <li>✏️ Visual Studio</li>
-  <li>🐙 GitHub</li>
-  <li>📋 ClickUp</li>
-  <li>🧰 JetBrains Suite</li>
-  <li>☁️ Salesforce</li>
-  <li>📈 PowerBI</li>
-  <li>🌍 ArcGIS</li>
-  <li>🔑 Active Directory</li>
-  <li>🌐 Cisco Meraki</li>
-  <li>🖥 ServiceNow</li>
-</ul>
-
-<p><strong>Operating Systems:</strong></p>
-<ul>
-  <li>🐧 Linux</li>
-  <li>🪟 Windows</li>
-  <li>🍎 macOS</li>
-  <li>🍓 Raspbian</li>
-</ul>
+<table align="center">
+  <tr>
+    <th>Programming Languages</th>
+    <th>Software & Tools</th>
+    <th>Operating Systems</th>
+  </tr>
+  <tr>
+    <td valign="top">
+      🧩 C/C++<br>
+      🐍 Python<br>
+      ☕ Java<br>
+      ⚡ PowerShell<br>
+      🛢 SQL<br>
+      🔢 MATLAB<br>
+      🌐 HTML<br>
+      📄 LaTeX
+    </td>
+    <td valign="top">
+      📊 Microsoft Office 365<br>
+      ✏️ Visual Studio<br>
+      🐙 GitHub<br>
+      📋 ClickUp<br>
+      🧰 JetBrains Suite<br>
+      ☁️ Salesforce<br>
+      📈 PowerBI<br>
+      🌍 ArcGIS<br>
+      🔑 Active Directory<br>
+      🌐 Cisco Meraki<br>
+      🖥 ServiceNow
+    </td>
+    <td valign="top">
+      🐧 Linux<br>
+      🪟 Windows<br>
+      🍎 macOS<br>
+      🍓 Raspbian
+    </td>
+  </tr>
+</table>
 <hr>
 
 <div align="center">
   <h3>🛠️ Projects</h3>
-  <p>Here are some of the projects I've worked on:</p>
 </div>
 
 <table align="center">
