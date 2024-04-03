@@ -1,94 +1,146 @@
 <h1 align="center">Brandt Kringlie 👋</h1>
 <p align="center">
-Based in Minneapolis, Minnesota, I'm pursuing a B.S. in Computer Science with a minor in Management at the University of Minnesota, set to graduate in May 2025. 
+  Based in Minneapolis, Minnesota, I'm pursuing a B.S. in Computer Science with a minor in Management at the University of Minnesota, set to graduate in May 2025.
 </p>
+<hr>
 
----
+<h3 align="center">🎓 Education</h3>
+<ul>
+  <li><strong>B.S. Computer Science, Minor in Management</strong> - University of Minnesota - Twin Cities
+    <ul>
+      <li>GPA: 3.85/4.00</li>
+      <li>Graduation: May 2025</li>
+    </ul>
+  </li>
+</ul>
 
-### 🎓 Education
-
-- **B.S. Computer Science, Minor in Management** - University of Minnesota - Twin Cities
-  - GPA: 3.85/4.00
-  - Graduation: May 2025
-
----
-
-### 💼 Experience
-
+<h3 align="center">💼 Experience</h3>
 <details open>
-<summary><strong>Amplifon (Jun 2023 - Mar 2024)</strong></summary>
-<br>
-
-**Junior Business Intelligence Developer (Aug 2023 - Mar 2024)**
-- Led the restructuring of Power BI Active Directory Group Policy to streamline user access.
-- Enhanced reporting capabilities by transitioning from Qlikview to Power BI.
-- Improved version control practices by introducing Power BI Projects to the global team, integrating with GitHub for source control.
-
-**IT Operation Specialist Intern (Jun 2023 - Aug 2023)**
-- Migrated asset management from Microsoft Active Directory to Salesforce, enhancing data integrity.
-- Developed Python scripts for automated data extraction, aiding in strategic decision-making.
-
+  <summary><strong>Amplifon (Jun 2023 - Mar 2024)</strong></summary>
+  <p><strong>Junior Business Intelligence Developer (Aug 2023 - Mar 2024)</strong></p>
+  <ul>
+    <li>Led the restructuring of Power BI Active Directory Group Policy to streamline user access.</li>
+    <li>Enhanced reporting capabilities by transitioning from Qlikview to Power BI.</li>
+    <li>Improved version control practices by introducing Power BI Projects to the global team, integrating with GitHub for source control.</li>
+  </ul>
+  <p><strong>IT Operation Specialist Intern (Jun 2023 - Aug 2023)</strong></p>
+  <ul>
+    <li>Migrated asset management from Microsoft Active Directory to Salesforce, enhancing data integrity.</li>
+    <li>Developed Python scripts for automated data extraction, aiding in strategic decision-making.</li>
+  </ul>
 </details>
 
 <details open>
-<summary><strong>North Dakota Department of Transportation (Jun 2022 - Aug 2022)</strong></summary>
-<br>
-
-**Intelligent Transportation Systems Intern (Jun 2022 - Aug 2022)**
-- Integrated Microsoft Teams with ArcGIS to improve geospatial data management.
-- Supported the installation and maintenance of transportation infrastructure, ensuring system reliability.
-
+  <summary><strong>North Dakota Department of Transportation (Jun 2022 - Aug 2022)</strong></summary>
+  <p><strong>Intelligent Transportation Systems Intern (Jun 2022 - Aug 2022)</strong></p>
+  <ul>
+    <li>Integrated Microsoft Teams with ArcGIS to improve geospatial data management.</li>
+    <li>Supported the installation and maintenance of transportation infrastructure, ensuring system reliability.</li>
+  </ul>
 </details>
+<hr>
 
+<h3 align="center">🔧 Technologies & Tools</h3>
+<p><strong>Programming Languages:</strong></p>
+<ul>
+  <li>🧩 C/C++</li>
+  <li>🐍 Python</li>
+  <li>☕ Java</li>
+  <li>⚡ PowerShell</li>
+  <li>🛢 SQL</li>
+  <li>🔢 MATLAB</li>
+  <li>🌐 HTML</li>
+  <li>📄 LaTeX</li>
+</ul>
 
----
+<p><strong>Software & Tools:</strong></p>
+<ul>
+  <li>📊 Microsoft Office 365</li>
+  <li>✏️ Visual Studio</li>
+  <li>🐙 GitHub</li>
+  <li>📋 ClickUp</li>
+  <li>🧰 JetBrains Suite</li>
+  <li>☁️ Salesforce</li>
+  <li>📈 PowerBI</li>
+  <li>🌍 ArcGIS</li>
+  <li>🔑 Active Directory</li>
+  <li>🌐 Cisco Meraki</li>
+  <li>🖥 ServiceNow</li>
+</ul>
 
-### 🔧 Technologies & Tools
+<p><strong>Operating Systems:</strong></p>
+<ul>
+  <li>🐧 Linux</li>
+  <li>🪟 Windows</li>
+  <li>🍎 macOS</li>
+  <li>🍓 Raspbian</li>
+</ul>
+<hr>
 
-**Programming Languages:**
-- 🧩 `C/C++`
-- 🐍 `Python`
-- ☕ `Java`
-- ⚡ `PowerShell`
-- 🛢 `SQL`
-- 🔢 `MATLAB`
-- 🌐 `HTML`
-- 📄 `LaTeX`
+<div align="center">
+  <h3>🛠️ Projects</h3>
+  <p>Here are some of the projects I've worked on:</p>
+</div>
 
-**Software & Tools:**
-- 📊 Microsoft Office 365
-- ✏️ Visual Studio
-- 🐙 GitHub
-- 📋 ClickUp
-- 🧰 JetBrains Suite
-- ☁️ Salesforce
-- 📈 PowerBI
-- 🌍 ArcGIS
-- 🔑 Active Directory
-- 🌐 Cisco Meraki
-- 🖥 ServiceNow
+<table align="center">
+  <tr>
+    <th>Category</th>
+    <th>Project</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td>Raspberry Pi Projects</td>
+    <td>DNS Server with Pi-Hole</td>
+    <td>Implemented a DNS server using Pi-Hole to block ads across the network.</td>
+  </tr>
+  <tr>
+    <td rowspan="2">Arduino Projects</td>
+    <td>Phone Swiper</td>
+    <td>Automates phone swiping - <a href="https://github.com/bkringlie/Phone-Swiper">Phone Swiper Repo</a></td>
+  </tr>
+  <tr>
+    <td>Bop It Remake</td>
+    <td>Created a Bop It game replica with LEDs, buttons, a potentiometer, and a 7-segment display.</td>
+  </tr>
+  <tr>
+    <td rowspan="4">Academic Projects</td>
+    <td>Chess Game (Java)</td>
+    <td>Engineered a fully functional chess game as part of a software development course.</td>
+  </tr>
+  <tr>
+    <td>Binary Bomb (Assembly/C)</td>
+    <td>Solved a binary bomb challenge, demonstrating proficiency in low-level programming.</td>
+  </tr>
+  <tr>
+    <td>Snake Game (Python)</td>
+    <td>Programmed a classic snake game, showcasing skills in Python.</td>
+  </tr>
+  <tr>
+    <td>Server/Client Image Handler (C)</td>
+    <td>Implemented a server-client model for image processing and handling.</td>
+  </tr>
+</table>
+<hr>
 
-**Operating Systems:**
-- 🐧 Linux
-- 🪟 Windows
-- 🍎 macOS
-- 🍓 Rasp
+<div align="center">
+  <h3>📫 How to Reach Me</h3>
+</div>
 
----
-
-### 🛠️ Projects
-
-- **Raspberry Pi:** Implemented a DNS server using Pi-Hole to block ads network-wide.
-- **Arduino Projects:** 
-  - Developed a Phone Swiper, showcasing my creativity and problem-solving skills. [Phone Swiper Repo](https://github.com/bkringlie/Phone-Swiper)
-  - Bop It remake, incorporating LEDs, buttons, a potentiometer, and a 7-segment display.
-- **Academic Projects:** 
-  - Developed a chess game in Java, a binary bomb in Assembly/C, a snake game in Python, and a server/client image handler in C.
-
----
-
-### 📫 How to Reach Me
-
-- **Email:** brandt.kringlie@outlook.com
-- **LinkedIn:** [linkedin.com/in/brandt-kringlie-a1aa21213](https://linkedin.com/in/brandt-kringlie-a1aa21213)
-- **GitHub:** [github.com/bkringlie](https://github.com/bkringlie)
+<table align="center">
+  <tr>
+    <th>Contact Method</th>
+    <th>Details</th>
+  </tr>
+  <tr>
+    <td>Email</td>
+    <td><a href="mailto:brandt.kringlie@outlook.com">brandt.kringlie@outlook.com</a></td>
+  </tr>
+  <tr>
+    <td>LinkedIn</td>
+    <td><a href="https://linkedin.com/in/brandt-kringlie-a1aa21213">linkedin.com/in/brandt-kringlie-a1aa21213</a></td>
+  </tr>
+  <tr>
+    <td>GitHub</td>
+    <td><a href="https://github.com/bkringlie">github.com/bkringlie</a></td>
+  </tr>
+</table>
