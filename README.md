@@ -13,6 +13,7 @@
     </ul>
   </li>
 </ul>
+<hr>
 
 <h3 align="center">💼 Experience</h3>
 <details open>
