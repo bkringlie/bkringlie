@@ -1,6 +1,6 @@
 <h1 align="center">Brandt Kringlie 👋</h1>
 <p align="center">
-  Based in Minneapolis, Minnesota, I'm pursuing a B.S. in Computer Science with a minor in Management at the University of Minnesota, set to graduate in May 2025.
+  University of Minnesota Twin Cities - BS Computer Science w/ Management Minor
 </p>
 <hr>
 
