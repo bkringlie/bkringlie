@@ -8,8 +8,11 @@
 <ul>
   <li><strong>B.S. Computer Science, Minor in Management</strong> - University of Minnesota - Twin Cities
     <ul>
-      <li>GPA: 3.85/4.00</li>
+      <li>GPA: 3.88/4.00</li>
       <li>Graduation: May 2025</li>
+      <li>Clubs: Sigma Chi Fraternity</li>
+      <li>Relevant Courses: Data Structures and Algorithms, Machine Architecture, Object-Oriented Programming, 
+      Linear Algebra, Computational Genomics, Software Engineering, Artificial Intelligence, Accounting, Economics</li>
     </ul>
   </li>
 </ul>
@@ -17,26 +20,37 @@
 
 <h3 align="center">💼 Experience</h3>
 <details open>
+  <summary><strong>Land O' Lakes Inc. (May 2024 - Aug 2024)</strong></summary>
+  <p><strong>Information Technology Intern (June 2024 - Aug 2024)</strong></p>
+  <ul>
+    <li>Assisted in developing Project and Portfolio Management software used by product teams.</li>
+    <li>Researched emerging technologies such as drones and quantum computing, presenting implementation strategies.</li>
+    <li>Developed a custom AI chatbot that integrates ServiceNow KB articles into SharePoint.</li>
+  </ul>
+</details>
+
+<details open>
   <summary><strong>Amplifon (Jun 2023 - Mar 2024)</strong></summary>
   <p><strong>Junior Business Intelligence Developer (Aug 2023 - Mar 2024)</strong></p>
   <ul>
-    <li>Led the restructuring of Power BI Active Directory Group Policy to streamline user access.</li>
-    <li>Enhanced reporting capabilities by transitioning from Qlikview to Power BI.</li>
-    <li>Improved version control practices by introducing Power BI Projects to the global team, integrating with GitHub for source control.</li>
+    <li>Restructured Active Directory Group Policy for Power BI permissions.</li>
+    <li>Decommissioned Qlikview reporting in favor of Power BI implementation.</li>
+    <li>Introduced Power BI Projects (pbip) for version control within GitHub.</li>
   </ul>
   <p><strong>IT Operation Specialist Intern (Jun 2023 - Aug 2023)</strong></p>
   <ul>
-    <li>Migrated asset management from Microsoft Active Directory to Salesforce, enhancing data integrity.</li>
-    <li>Developed Python scripts for automated data extraction, aiding in strategic decision-making.</li>
+    <li>Migrated asset management from Active Directory to Salesforce, enhancing data accuracy.</li>
+    <li>Automated ServiceNow incident collection using Python for centralized Excel reports.</li>
+    <li>Developed GitHub repositories and contributed code to the IT Operations team.</li>
   </ul>
 </details>
 
 <details open>
   <summary><strong>North Dakota Department of Transportation (Jun 2022 - Aug 2022)</strong></summary>
-  <p><strong>Intelligent Transportation Systems Intern (Jun 2022 - Aug 2022)</strong></p>
   <ul>
     <li>Integrated Microsoft Teams with ArcGIS to improve geospatial data management.</li>
-    <li>Supported the installation and maintenance of transportation infrastructure, ensuring system reliability.</li>
+    <li>Installed and maintained transportation devices (cameras, sensors, modems) to ensure optimal performance.</li>
+    <li>Automated cartography processes using SQL scripts, reducing time for annual reports.</li>
   </ul>
 </details>
 <hr>
@@ -57,20 +71,23 @@
       🛢 SQL<br>
       🔢 MATLAB<br>
       🌐 HTML<br>
-      📄 LaTeX
+      🎨 CSS<br>
+      📄 LaTeX<br>
+      🔣 OCaml<br>
+      💻 JavaScript<br>
+      🔷 TypeScript
     </td>
     <td valign="top">
-      📊 Microsoft Office 365<br>
+      📊 Microsoft 365<br>
       ✏️ Visual Studio<br>
       🐙 GitHub<br>
-      📋 ClickUp<br>
       🧰 JetBrains Suite<br>
       ☁️ Salesforce<br>
-      📈 PowerBI<br>
+      📈 Power BI<br>
       🌍 ArcGIS<br>
       🔑 Active Directory<br>
-      🌐 Cisco Meraki<br>
-      🖥 ServiceNow
+      🖥 ServiceNow<br>
+      ☁️ Google Cloud Platform
     </td>
     <td valign="top">
       🐧 Linux<br>
@@ -100,28 +117,32 @@
   <tr>
     <td rowspan="2">Arduino Projects</td>
     <td>Phone Swiper</td>
-    <td>Automates phone swiping - <a href="https://github.com/bkringlie/Phone-Swiper">Phone Swiper Repo</a></td>
+    <td>Automated phone swiping with servo motor and Lidar - <a href="https://github.com/bkringlie/Phone-Swiper">Phone Swiper Repo</a></td>
   </tr>
   <tr>
     <td>Bop It Remake</td>
-    <td>Created a Bop It game replica with LEDs, buttons, a potentiometer, and a 7-segment display.</td>
+    <td>Created a Bop It game replica with LEDs, buttons, potentiometer, and a 7-segment display.</td>
   </tr>
   <tr>
-    <td rowspan="4">Academic Projects</td>
+    <td rowspan="5">Academic Projects</td>
+    <td>Drone Package Delivery Simulation (C++, TypeScript, HTML)</td>
+    <td>Simulated package delivery using drones as part of a course project.</td>
+  </tr>
+  <tr>
     <td>Chess Game (Java)</td>
-    <td>Engineered a fully functional chess game as part of a software development course.</td>
+    <td>Engineered a functional chess game in a software development course.</td>
   </tr>
   <tr>
     <td>Binary Bomb (Assembly/C)</td>
-    <td>Solved a binary bomb challenge, demonstrating proficiency in low-level programming.</td>
+    <td>Solved a binary bomb challenge, demonstrating low-level programming skills.</td>
   </tr>
   <tr>
     <td>Snake Game (Python)</td>
-    <td>Programmed a classic snake game, showcasing skills in Python.</td>
+    <td>Developed a classic snake game using Python.</td>
   </tr>
   <tr>
     <td>Server/Client Image Handler (C)</td>
-    <td>Implemented a server-client model for image processing and handling.</td>
+    <td>Implemented a client-server model for image handling and processing.</td>
   </tr>
 </table>
 <hr>
