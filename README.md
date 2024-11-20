@@ -144,6 +144,27 @@
     <td>Server/Client Image Handler (C)</td>
     <td>Implemented a client-server model for image handling and processing.</td>
   </tr>
+  <tr>
+    <td rowspan="5">WebGL Projects</td>
+    <td><a href="https://csci-4611-fall-2024.github.io/assignment-1-bkringlie/">Assignment 1: Interactive Art</a></td>
+    <td>Created a 2D animated interactive application inspired by Text Rain, combining real-time graphics and full-body interaction.</td>
+  </tr>
+  <tr>
+    <td><a href="https://csci-4611-fall-2024.github.io/assignment-2-bkringlie/">Assignment 2: Hole in the Ground</a></td>
+    <td>Developed a 3D game inspired by Donut County, implementing physics-based gameplay where objects fall into a player-controlled hole.</td>
+  </tr>
+  <tr>
+    <td><a href="https://csci-4611-fall-2024.github.io/assignment-3-bkringlie/">Assignment 3: Earthquake Visualization</a></td>
+    <td>Visualized real-world earthquake data on a globe, transitioning between 2D and 3D views using dynamic geospatial data.</td>
+  </tr>
+  <tr>
+    <td><a href="https://csci-4611-fall-2024.github.io/assignment-4-bkringlie/">Assignment 4: So You Think Ants Can Dance</a></td>
+    <td>Implemented motion capture animation to bring 3D characters to life, focusing on hierarchical transformations and smooth animations.</td>
+  </tr>
+  <tr>
+    <td><a href="https://csci-4611-fall-2024.github.io/assignment-5-bkringlie/">Assignment 5: Artistic Rendering</a></td>
+    <td>Developed GLSL shaders to create cartoon shading, silhouette outlines, and realistic normal-mapped textures for artistic effects.</td>
+  </tr>
 </table>
 <hr>
 
