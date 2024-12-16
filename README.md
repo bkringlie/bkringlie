@@ -145,7 +145,7 @@
     <td>Implemented a client-server model for image handling and processing.</td>
   </tr>
   <tr>
-    <td rowspan="5">WebGL Projects</td>
+    <td rowspan="6">Gopher GFX Projects</td>
     <td><a href="https://csci-4611-fall-2024.github.io/assignment-1-bkringlie/">Assignment 1: Interactive Art</a></td>
     <td>Created a 2D animated interactive application inspired by Text Rain, combining real-time graphics and full-body interaction.</td>
   </tr>
@@ -164,6 +164,10 @@
   <tr>
     <td><a href="https://csci-4611-fall-2024.github.io/assignment-5-bkringlie/">Assignment 5: Artistic Rendering</a></td>
     <td>Developed GLSL shaders to create cartoon shading, silhouette outlines, and realistic normal-mapped textures for artistic effects.</td>
+  </tr>
+  <tr>
+    <td><a href="https://csci-4611-fall-2024.github.io/assignment-6-bkringlie/">Assignment 6: A World Made of Drawings</a></td>
+    <td>Implemented 3D mesh editing and non-photorealistic rendering inspired by the book <strong>Harold and the Purple Crayon</strong>, allowing users to create and interact with worlds drawn in real-time.</td>
   </tr>
 </table>
 <hr>
