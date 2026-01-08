@@ -5,54 +5,127 @@
 <hr>
 
 <h3 align="center">🎓 Education</h3>
-<ul>
-  <li><strong>B.S. Computer Science, Minor in Management</strong> - University of Minnesota - Twin Cities
-    <ul>
-      <li>GPA: 3.88/4.00</li>
-      <li>Graduation: May 2025</li>
-      <li>Clubs: Sigma Chi Fraternity</li>
-      <li>Relevant Courses: Data Structures and Algorithms, Machine Architecture, Object-Oriented Programming, 
-      Linear Algebra, Computational Genomics, Software Engineering, Artificial Intelligence, Accounting, Economics</li>
-    </ul>
-  </li>
-</ul>
+<table style="width: 100%; table-layout: fixed; border-collapse: collapse;">
+  <tr>
+    <th style="width: 20%; text-align: left;">Institution</th>
+    <th style="width: 20%; text-align: left;">School</th>
+    <th style="width: 20%; text-align: left;">Degree/Program</th>
+    <th style="width: 40%; text-align: left;">Courses</th>
+    <th style="width: 10%; text-align: center;">GPA</th>
+  </tr>
+  <tr>
+    <td rowspan="2">University of Minnesota - Twin Cities</td>
+    <td>College of Science & Engineering</td>
+    <td>B.S. in Computer Science</td>
+    <td>
+      <ul>
+        <li>Data Structures and Algorithms</li>
+        <li>Machine Architecture</li>
+        <li>Object-Oriented Programming</li>
+        <li>Linear Algebra</li>
+        <li>Computational Genomics</li>
+        <li>Software Engineering</li>
+        <li>Artificial Intelligence</li>
+      </ul>
+    </td>
+    <td rowspan="2" style="text-align: center;">3.88/4.00</td>
+  </tr>
+  <tr>
+    <td>Carlson School of Management</td>
+    <td>Minor in Management</td>
+    <td>
+      <ul>
+        <li>Accounting</li>
+        <li>Finance</li>
+        <li>Economics</li>
+        <li>Supply Chain</li>
+        <li>Marketing</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 <hr>
 
 <h3 align="center">💼 Experience</h3>
-<details open>
-  <summary><strong>Land O' Lakes Inc. (May 2024 - Aug 2024)</strong></summary>
-  <p><strong>Information Technology Intern (June 2024 - Aug 2024)</strong></p>
-  <ul>
-    <li>Assisted in developing Project and Portfolio Management software used by product teams.</li>
-    <li>Researched emerging technologies such as drones and quantum computing, presenting implementation strategies.</li>
-    <li>Developed a custom AI chatbot that integrates ServiceNow KB articles into SharePoint.</li>
-  </ul>
-</details>
-
-<details open>
-  <summary><strong>Amplifon (Jun 2023 - Mar 2024)</strong></summary>
-  <p><strong>Junior Business Intelligence Developer (Aug 2023 - Mar 2024)</strong></p>
-  <ul>
-    <li>Restructured Active Directory Group Policy for Power BI permissions.</li>
-    <li>Decommissioned Qlikview reporting in favor of Power BI implementation.</li>
-    <li>Introduced Power BI Projects (pbip) for version control within GitHub.</li>
-  </ul>
-  <p><strong>IT Operation Specialist Intern (Jun 2023 - Aug 2023)</strong></p>
-  <ul>
-    <li>Migrated asset management from Active Directory to Salesforce, enhancing data accuracy.</li>
-    <li>Automated ServiceNow incident collection using Python for centralized Excel reports.</li>
-    <li>Developed GitHub repositories and contributed code to the IT Operations team.</li>
-  </ul>
-</details>
-
-<details open>
-  <summary><strong>North Dakota Department of Transportation (Jun 2022 - Aug 2022)</strong></summary>
-  <ul>
-    <li>Integrated Microsoft Teams with ArcGIS to improve geospatial data management.</li>
-    <li>Installed and maintained transportation devices (cameras, sensors, modems) to ensure optimal performance.</li>
-    <li>Automated cartography processes using SQL scripts, reducing time for annual reports.</li>
-  </ul>
-</details>
+<table style="width: 100%; table-layout: fixed; border-collapse: collapse;">
+  <tr>
+    <th style="width: 25%; text-align: left;">Company</th>
+    <th style="width: 30%; text-align: left;">Role</th>
+    <th style="width: 45%; text-align: left;">Details</th>
+  </tr>
+  <tr>
+    <td rowspan="3"><strong>Land O' Lakes Inc.</strong> <br> <i>(2024 - Present)</i></td>
+    <td>IT TAP Rotation #2: <br>Software Engineer <br><i>(2026 - Present)</i></td>
+    <td>
+      <ul>
+        <li>...</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>IT TAP Rotation #1: <br>Data Engineer <br><i>(2025 - 2026)</i></td>
+    <td>
+      <ul>
+        <li>Built and optimized data pipelines and storage using Snowflake to support scalable architecture.</li>
+        <li>Developed interactive Power BI dashboards for trend analysis and actionable insights.</li>
+        <li>Decommissioned legacy solution that collected point-of-sale and inventory data, redesigning reports on a modern data model.</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>IT Intern <br><i>(2024)</i></td>
+    <td>
+      <ul>
+        <li>Assisted in developing Project and Portfolio Management software used by all product teams.</li>
+        <li>Researched emerging technologies (drones, quantum computing) for strategic implementation.</li>
+        <li>Developed a custom AI chatbot integrating ServiceNow KB articles and SharePoint.</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Embrace North</strong> <br> <i>(2025 - Present)</i></td>
+    <td>Fire & Ice Associate <br><i>(2025 - Present)</i></td>
+    <td>
+      <ul>
+        <li>Support daily operations at a sauna and cold exposure facility.</li>
+        <li>Manage front desk responsibilities, ensuring smooth guest check-in and scheduling.</li>
+        <li>Maintain a clean, welcoming, and safe environment for guests.</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td rowspan="2"><strong>Amplifon</strong> <br> <i>(2023 - 2024)</i></td>
+    <td>Junior Business Intelligence Developer <br><i>(2023 - 2024)</i></td>
+    <td>
+      <ul>
+        <li>Restructured Active Directory Group Policy for permissions within Power BI.</li>
+        <li>Decommissioned QlikView reporting to Power BI with enhanced reporting mechanisms.</li>
+        <li>Introduced Power BI Projects (pbip) and improved GitHub-based version control strategies.</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>IT Operations Specialist Intern <br><i>(2023)</i></td>
+    <td>
+      <ul>
+        <li>Streamlined asset management by migrating Active Directory data to Salesforce.</li>
+        <li>Automated ServiceNow incident reports using Python.</li>
+        <li>Contributed to IT Operations team GitHub repositories and processes.</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>North Dakota Department of Transportation</strong> <br> <i>(2022)</i></td>
+    <td>Intelligent Transportation Systems Intern <br><i>(2022)</i></td>
+    <td>
+      <ul>
+        <li>Consolidated geospatial data into ArcGIS for consistent and efficient data use.</li>
+        <li>Installed and maintained transportation devices, including cameras, sensors, and modems.</li>
+        <li>Automated annual cartography reports using SQL scripting.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 <hr>
 
 <h3 align="center">🔧 Technologies & Tools</h3>
